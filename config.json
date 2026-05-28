@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productperify",
+        "uuid": 25179541,
+        "checksum": "xvypbd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
